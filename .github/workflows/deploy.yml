@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-size: 20
+          node-size: 22
           cache: 'npm'
 
       - name: Setup Pages
