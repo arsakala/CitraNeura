@@ -1,0 +1,6 @@
+{
+  "name": "CitraNeura Log Digitizer",
+  "description": "A highly accurate web application for digitizing scientific well log charts, extracting curves, calibrating depth scales, and validating log structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
